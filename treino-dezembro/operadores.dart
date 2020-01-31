@@ -6,4 +6,4 @@ void main (){
   else{
     print('João não pode ter cartão de crédito');
   } 
-} 
+}  
