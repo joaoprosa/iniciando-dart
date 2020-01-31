@@ -16,4 +16,4 @@ main(){
   } else {
     print("Criança");
   }
-}
+}  

@@ -10,9 +10,9 @@ main(){
 //ou usando Var, const , etc. A diferença é semantica ao que parece.)
 //Essa lógica também pode ser feito como está comentado. Comentando a linha 22 e da linha 27 à 44 retirando o comentário da linha
 //20 e 21 e da 48 à 61. Mudando tb o imc que esta escrito como parametro na linha 25 para calcImc que seria o parameteo correto
-//para essa forma.
+//para essa forma. 
 
-
+  
     print("Digite seu peso:");
     String textPeso = stdin.readLineSync();
     int peso = int.parse(textPeso);
