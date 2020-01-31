@@ -14,7 +14,7 @@ main(){
 
 
     print("Digite seu peso:");
-    String textPeso = stdin.readLineSync();
+    // String textPeso = stdin.readLineSync();
     int peso = int.parse(textPeso);
 
     print("Digite sua  altura:");
